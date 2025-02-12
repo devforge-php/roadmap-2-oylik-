@@ -1,0 +1,53 @@
+2-hafta: Ma’lumot tuzilmalari (Data Structures) va Algoritmlar
+
+Dushanba: Ma’lumot tuzilmalari kirish
+
+Array va uning turlari
+
+Linked List (Singly, Doubly, Circular)
+
+Seshanba: Stack va Queue
+
+Stack va uning ishlash prinsipi
+
+Queue va Priority Queue
+
+Deque (Double-ended Queue)
+
+Chorshanba: HashMap va Set
+
+HashMap qanday ishlaydi?
+
+Hashing konsepsiyasi
+
+Set va uning turlari
+
+Payshanba: Murakkab tuzilmalar
+
+Binary Tree va uning turlari (BST, AVL, Heap)
+
+Graph va uning turlari
+
+Trie ma’lumot tuzilmasi
+
+Juma: Algoritmlarga kirish
+
+Searching algoritmlar: Linear Search va Binary Search
+
+Sorting algoritmlar: Bubble Sort, Selection Sort
+
+Shanba: Murakkab algoritmlar
+
+Quick Sort va Merge Sort
+
+Dynamic Programming asoslari
+
+Yakshanba: Rekursiya va Greedy algoritmlar
+
+Rekursiya va uning ishlash prinsipi
+
+Greedy algoritmlarga kirish
+
+Amaliyot: LeetCode, Codeforces yoki AtCoder’da 30 ta algoritmik masala ishlash
+
+📌 Eslatma: Har kuni amaliy masalalar ishlashni unutmang! Masalalarni turli platformalarda yechib, kod yozish ko‘nikmalarini mustahkamlang

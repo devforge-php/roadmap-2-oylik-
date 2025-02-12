@@ -1,0 +1,41 @@
+**1-hafta: Git, Versiya nazorati va Linux**
+
+### **Dushanba:** Git va GitHub asoslari
+- Git nima?
+- Git va GitHub farqi
+- Git o‘rnatish
+- `git init`, `git clone`, `git status`, `git add`, `git commit`
+
+### **Seshanba:** Git branchlar va merge
+- `git branch`, `git checkout`, `git switch`
+- `git merge`, merge conflict va uni hal qilish
+- GitHub flow: pull request, review, merge
+
+### **Chorshanba:** GitHub va GitHub Actions
+- `git push`, `git pull`
+- `.gitignore` fayl yaratish
+- GitHub Actions va CI/CD haqida tushuncha
+- GitHub repository yaratish va boshqarish
+
+### **Payshanba:** Linux asosiy buyruqlari
+- `ls`, `cd`, `pwd`, `mkdir`, `rm -rf`, `cp`, `mv`
+- `chmod`, `chown` yordamida huquqlarni boshqarish
+- `grep`, `find`, fayllarni izlash va tahlil qilish
+
+### **Juma:** Linux tizim monitoringi
+- `top`, `htop` bilan jarayonlarni nazorat qilish
+- `ps`, `kill`, `pkill` yordamida jarayonlarni boshqarish
+- `df`, `du` yordamida diskdan foydalanishni ko‘rish
+
+### **Shanba:** Bash scripting kirish
+- Bash scripting nima?
+- Bash script yaratish (`.sh` fayllar)
+- `if`, `else`, `for`, `while` operatorlari bilan ishlash
+
+### **Yakshanba:** Amaliyot va Mustahkamlash
+- Git bilan real loyiha qilish (repository yaratib, kod qo‘shish)
+- Git branch va merge mashqlari
+- Linux buyruqlari va Bash scriptlar orqali avtomatlashtirish
+
+📌 **Eslatma:** Har kuni o‘rganilgan mavzular bo‘yicha amaliy mashqlar qil! GitHub-da repository yaratib, kod yozib bor!
+
