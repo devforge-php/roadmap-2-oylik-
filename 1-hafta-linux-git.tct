@@ -25,7 +25,7 @@
 ### **Juma:** Linux tizim monitoringi
 - `top`, `htop` bilan jarayonlarni nazorat qilish
 - `ps`, `kill`, `pkill` yordamida jarayonlarni boshqarish
-- `df`, `du` yordamida diskdan foydalanishni ko‘rish
+- `df`, `du` yordamida diskdan foydalanishni ko‘rish✅
 
 ### **Shanba:** Bash scripting kirish
 - Bash scripting nima?
