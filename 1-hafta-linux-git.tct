@@ -30,12 +30,12 @@
 ### **Shanba:** Bash scripting kirish
 - Bash scripting nima?
 - Bash script yaratish (`.sh` fayllar)
-- `if`, `else`, `for`, `while` operatorlari bilan ishlash
+- `if`, `else`, `for`, `while` operatorlari bilan ishlash✅
 
 ### **Yakshanba:** Amaliyot va Mustahkamlash
 - Git bilan real loyiha qilish (repository yaratib, kod qo‘shish)
 - Git branch va merge mashqlari
-- Linux buyruqlari va Bash scriptlar orqali avtomatlashtirish
+- Linux buyruqlari va Bash scriptlar orqali avtomatlashtirish✅
 
 📌 **Eslatma:** Har kuni o‘rganilgan mavzular bo‘yicha amaliy mashqlar qil! GitHub-da repository yaratib, kod yozib bor!
 

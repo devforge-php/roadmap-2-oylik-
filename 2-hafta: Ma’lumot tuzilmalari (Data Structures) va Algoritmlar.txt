@@ -4,7 +4,7 @@ Dushanba: Ma’lumot tuzilmalari kirish
 
 Array va uning turlari
 
-Linked List (Singly, Doubly, Circular)
+Linked List (Singly, Doubly, Circular) ✅
 
 Seshanba: Stack va Queue
 
