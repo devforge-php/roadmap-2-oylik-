@@ -12,7 +12,7 @@ Stack va uning ishlash prinsipi
 
 Queue va Priority Queue
 
-Deque (Double-ended Queue)
+Deque (Double-ended Queue) ertaga qoldiridi bugun sal maumo bolib qoldi lekin shunda ham stack va queue ni chundim
 
 Chorshanba: HashMap va Set
 
