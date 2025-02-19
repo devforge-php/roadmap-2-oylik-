@@ -43,7 +43,7 @@ Shanba: Murakkab algoritmlar
 Quick Sort va Merge Sort
 
 Dynamic Programming asoslari,
-osi model ohirgi bitta starakturelar,
+
 
 Yakshanba: Rekursiya va Greedy algoritmlar
 
