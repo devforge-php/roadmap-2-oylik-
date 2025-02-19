@@ -29,24 +29,28 @@ Binary Tree va uning turlari (BST, AVL, Heap)
 Graph va uning turlari
 
 Trie ma’lumot tuzilmasi
+osi model - 3 ta starakturasi,
 
 Juma: Algoritmlarga kirish
 
 Searching algoritmlar: Linear Search va Binary Search
 
-Sorting algoritmlar: Bubble Sort, Selection Sort
+Sorting algoritmlar: Bubble Sort, Selection Sort,
+osi model - keyingi 2-ta starakturelarni bilish,
 
 Shanba: Murakkab algoritmlar
 
 Quick Sort va Merge Sort
 
-Dynamic Programming asoslari
+Dynamic Programming asoslari,
+osi model ohirgi bitta starakturelar,
 
 Yakshanba: Rekursiya va Greedy algoritmlar
 
 Rekursiya va uning ishlash prinsipi
 
 Greedy algoritmlarga kirish
+dns , https 
 
 Amaliyot: LeetCode, Codeforces yoki AtCoder’da 30 ta algoritmik masala ishlash
 
